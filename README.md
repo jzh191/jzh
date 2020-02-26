@@ -1,2 +1,1 @@
-# jzh
-persional first git 
+这是我的第一个github仓库，创建于2020-2-26，地点为北京市赵府街4号
